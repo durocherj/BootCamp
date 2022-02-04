@@ -1,0 +1,13 @@
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.exe
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.deps.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\bin\Debug\netcoreapp3.1\Exercise 11.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 11\Exercise 11\obj\Debug\netcoreapp3.1\Exercise 11.genruntimeconfig.cache
