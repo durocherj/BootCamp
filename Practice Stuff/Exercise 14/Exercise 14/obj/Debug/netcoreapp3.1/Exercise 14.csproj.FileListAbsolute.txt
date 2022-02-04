@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.exe
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.deps.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\bin\Debug\netcoreapp3.1\Exercise 14.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 14\Exercise 14\obj\Debug\netcoreapp3.1\Exercise 14.genruntimeconfig.cache
