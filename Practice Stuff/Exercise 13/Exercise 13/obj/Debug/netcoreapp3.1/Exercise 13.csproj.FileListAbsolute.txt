@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.exe
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.deps.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\bin\Debug\netcoreapp3.1\Exercise 13.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.dll
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.pdb
+C:\Users\bisky\Desktop\GC\Practice Stuff\Exercise 13\Exercise 13\obj\Debug\netcoreapp3.1\Exercise 13.genruntimeconfig.cache
