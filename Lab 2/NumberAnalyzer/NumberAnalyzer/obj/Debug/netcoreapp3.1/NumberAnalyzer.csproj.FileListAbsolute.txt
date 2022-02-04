@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.exe
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.deps.json
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.json
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\bisky\Desktop\BootCamp\Lab 2\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.genruntimeconfig.cache
