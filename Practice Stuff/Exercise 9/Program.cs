@@ -32,6 +32,10 @@ namespace Exercise_9
                 case "spanish":
                     Console.WriteLine("¡¡¡Hola Mundo!!!");
                     break;
+
+                default:
+                        Console.WriteLine("I'm sorry, that's not a valid option.");
+                        break;
                 }
 
                 Console.Write("Would you like to choose a new entry? (Y/N) ");
