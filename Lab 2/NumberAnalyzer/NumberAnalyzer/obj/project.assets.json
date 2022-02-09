@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
+      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
       "projectName": "NumberAnalyzer",
-      "projectPath": "C:\\Users\\bisky\\Desktop\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
+      "projectPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\NumberAnalyzer.csproj",
       "packagesPath": "C:\\Users\\bisky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bisky\\Desktop\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\obj\\",
+      "outputPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 2\\NumberAnalyzer\\NumberAnalyzer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bisky\\AppData\\Roaming\\NuGet\\NuGet.Config",

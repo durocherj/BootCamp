@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Practice Stuff\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Practice Stuff\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 3\\Lab 3.csproj",
+      "projectName": "Lab 3",
+      "projectPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 3\\Lab 3.csproj",
       "packagesPath": "C:\\Users\\bisky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Practice Stuff\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Lab 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bisky\\AppData\\Roaming\\NuGet\\NuGet.Config",
