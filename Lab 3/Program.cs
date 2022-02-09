@@ -6,7 +6,7 @@ namespace Lab_3
 
     class Program
     {
-
+        public static Random rand = new Random();
         static void Main(string[] args)
         {
             var repeat = true;
@@ -51,7 +51,7 @@ namespace Lab_3
        
         public static string Roller(int sides)
         {
-            var rand = new Random();
+            
             var res1 = rand.Next(1, sides + 1);
             var res2 = rand.Next(1, sides + 1);
             string output = $"{res1} and {res2} make {res1 + res2}.";
@@ -59,7 +59,7 @@ namespace Lab_3
         }
         public static string Roller6()
         {
-            var rand = new Random();
+            
             var res1 = rand.Next(1, 7);
             var res2 = rand.Next(1, 7);
             string output;
