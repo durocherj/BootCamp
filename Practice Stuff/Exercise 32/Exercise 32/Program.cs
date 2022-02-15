@@ -6,7 +6,6 @@ var repeatLoop = true;
 int[] intArray = new int[5] { 2, 8, 0, 24, 51 };
 var error = "I'm sorry, that's not a valid entry.";
 int isItThere;
-Console.WriteLine(intArray.Max());
 while (repeatLoop)
 {
     Console.WriteLine("Please enter a value: ");
@@ -16,7 +15,7 @@ while (repeatLoop)
     if (inputValid)
     {
         if (intArray.Contains(isItThere))
-            Console.WriteLine($"The value {isItThere} can be found at index {}");
+            Console.WriteLine($"The value {isItThere} can be found at index {Array.IndexOf(intArray, isItThere)}");
         else
             Console.WriteLine("That value is not within the array.");
     }
