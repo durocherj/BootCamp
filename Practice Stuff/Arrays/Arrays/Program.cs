@@ -1,9 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 
-int[] intArray = new int[3] { 1, 2, 3 };
+string[] stringArray = new string[3] { "Banana", "Orange", "Grapefruit" };
 
-var zeroIndex = intArray[0];
-Console.WriteLine(intArray[1]);
+
+
+Console.WriteLine(Array.IndexOf(stringArray, "Orange"));
+
+Console.WriteLine(stringArray.Contains("Grapefruit"));
 
 
