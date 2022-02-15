@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\Exercise 31.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\Exercise 31.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\Exercise 31.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\Exercise 31.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\ref\Exercise 31.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\bin\Debug\net6.0\Exercise 31.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\ref\Exercise 31.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 31\Exercise 31\obj\Debug\net6.0\Exercise 31.genruntimeconfig.cache

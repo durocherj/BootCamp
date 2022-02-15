@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.runtimeconfig.dev.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\bin\Debug\netcoreapp3.1\String Method Practics.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\String Method Practics\obj\Debug\netcoreapp3.1\String Method Practics.genruntimeconfig.cache
