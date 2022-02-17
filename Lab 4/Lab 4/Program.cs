@@ -3,7 +3,7 @@
 Console.WriteLine("Welcome to the student database!");
 string[] name = new string[] { "Michael", "Emily", "Melissa", "Richard" };
 string[] hometown = new string[] { "Detroit", "Miami", "Los Angeles", "Toronto" };
-string[] food = new string[] { "Pizza", "Tacos", "Cake", "Pasta" };
+string[] favoriteFood = new string[] { "Pizza", "Tacos", "Cake", "Pasta" };
 var repeat = true;
 string error = "I'm sorry, that is not a valid entry";
 
@@ -15,32 +15,47 @@ while (repeat)
         "\n3. Melissa" +
         "\n4. Richard");
 
+    
+
     var nameChoice = Console.ReadLine();
     int chosenName;
     bool validName = int.TryParse(nameChoice, out chosenName);
 
-    if (validName && chosenName > 0 && chosenName < 5)
+    if (validName && chosenName > 0 && chosenName <= name.Length)
     {
         int nameIndex = chosenName - 1;
-        Console.WriteLine($"Please choose which information you would like to learn about {name[nameIndex]}:" +
-            "\n1. Hometown" +
-            "\n2. Favorite Food");
-        var infoChoice = Console.ReadLine();
-        int chosenInfo;
-        bool validInfo = int.TryParse(infoChoice, out chosenInfo);
+        
+        var repeatChoice = true;
 
-        if (validInfo && chosenInfo > 0 && chosenInfo < 3)
+        while (repeatChoice)
         {
-            if (chosenInfo == 1)
+            Console.WriteLine($"Please choose which information you would like to learn about {name[nameIndex]}:" +
+            "\n Hometown" +
+            "\n Favorite food");
+            var chosenInfo = Console.ReadLine().ToLower();
+            
+
+            if (chosenInfo == "hometown")
+            {
                 Console.WriteLine($"{name[nameIndex]}'s hometown is {hometown[nameIndex]}");
+                repeatChoice = false;
+            }
+            else if (chosenInfo == "favorite food" || chosenInfo == "food")
+            {
+                Console.WriteLine($"{name[nameIndex]}'s favorite food is {favoriteFood[nameIndex]}");
+                repeatChoice = false;
+            }
             else
-                Console.WriteLine($"{name[nameIndex]}'s favorite food is {food[nameIndex]}");
+                Console.WriteLine(error);
         }
-        else
-            Console.WriteLine(error);
     }
     else
         Console.WriteLine(error);
+
+    Console.WriteLine("Would you like to learn about another student? (y/n)");
+    var newInquiry = Console.ReadLine().ToLower();
+    if (newInquiry == "n")
+        repeat = false;
 
 }
 
