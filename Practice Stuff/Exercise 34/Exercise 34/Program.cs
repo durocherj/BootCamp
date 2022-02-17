@@ -2,22 +2,31 @@
 
 
 var repeatLoop = true;
-double[] doubleArray = new double[5] { 16,32,64,128,256 };
+int[] intArray = new int[5] { 16,32,64,128,256 };
 var error = "I'm sorry, that's not a valid entry.";
-int indexNum;
+
+Console.WriteLine($"The array is currently {String.Join(" ", intArray)}");
 while (repeatLoop)
 {
+    
     Console.WriteLine("Enter command (half/double);");
-    string hd = Console.ReadLine().ToLower();
+    var hd = Console.ReadLine().ToLower();
     if (hd == "half")
-        foreach (double i in doubleArray)
-            doubleArray[i] = doubleArray[i] / 2;
-    else if (hd == "double ")
-        foreach (double i in doubleArray)
-            doubleArray[i] = doubleArray[i] * 2;
+        for (int i = 0; i < intArray.Length; i++)
+        {
+            intArray[i] = intArray[i] / 2;            
+        }
+            
+    else if (hd == "double")
+        for (int i = 0;i < intArray.Length;i++)
+        {
+            intArray[i] = intArray[i] * 2;            
+        }
+            
     else
         Console.WriteLine(error);
 
+    Console.WriteLine($"The array is now {String.Join(" ", intArray)}");
     Console.WriteLine("Would you like to continue? (y/n)");
 
     var goAgain = Console.ReadLine().ToLower();

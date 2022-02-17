@@ -12,3 +12,4 @@ C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 34\Exercise 34\obj\De
 C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 34\Exercise 34\obj\Debug\net6.0\ref\Exercise 34.dll
 C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 34\Exercise 34\obj\Debug\net6.0\Exercise 34.pdb
 C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 34\Exercise 34\obj\Debug\net6.0\Exercise 34.genruntimeconfig.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 34\Exercise 34\obj\Debug\net6.0\Exercise 34.csproj.AssemblyReference.cache
