@@ -50,22 +50,17 @@
 
 //stringList.ForEach(x => Console.Write($"");
 
-Console.WriteLine("Welcome to The List!");
-List<string> shoppingList = new List<string>();
-var repeat = true;
+Dictionary<string, string> dictionaryWords = new Dictionary<string, string>();
 
-while(repeat)
+dictionaryWords.Add("Mango", "Salsa");
+dictionaryWords.Add("Hot", "Potato");
+dictionaryWords.Add("Big", "Chungus");
+
+foreach(KeyValuePair<string, string> kvp in dictionaryWords)
 {
-    Console.WriteLine("What would you like to add to your list?");
-    shoppingList.Add(Console.ReadLine().ToLower());
-        
-    shoppingList.ForEach(x => Console.WriteLine(x));
-
-
-    Console.WriteLine("Would you like to add to the list? (y/n)");
-    var addMore = Console.ReadLine().ToLower();
-
-    if (addMore == "n")
-        repeat = false;
-
+    Console.WriteLine($"{kvp.Key} {kvp.Value}");
 }
+
+
+
+

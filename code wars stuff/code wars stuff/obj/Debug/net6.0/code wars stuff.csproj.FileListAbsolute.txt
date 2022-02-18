@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\code wars stuff.exe
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\code wars stuff.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\code wars stuff.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\code wars stuff.dll
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\ref\code wars stuff.dll
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\bin\Debug\net6.0\code wars stuff.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.dll
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\ref\code wars stuff.dll
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\code wars stuff\code wars stuff\obj\Debug\net6.0\code wars stuff.genruntimeconfig.cache
