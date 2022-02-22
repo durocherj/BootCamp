@@ -50,16 +50,41 @@
 
 //stringList.ForEach(x => Console.Write($"");
 
-Dictionary<string, string> dictionaryWords = new Dictionary<string, string>();
+//Dictionary<string, string> dictionaryWords = new Dictionary<string, string>();
 
-dictionaryWords.Add("Mango", "Salsa");
-dictionaryWords.Add("Hot", "Potato");
-dictionaryWords.Add("Big", "Chungus");
+//dictionaryWords.Add("Mango", "Salsa");
+//dictionaryWords.Add("Hot", "Potato");
+//dictionaryWords.Add("Big", "Chungus");
 
-foreach(KeyValuePair<string, string> kvp in dictionaryWords)
-{
-    Console.WriteLine($"{kvp.Key} {kvp.Value}");
-}
+//foreach(KeyValuePair<string, string> kvp in dictionaryWords)
+//{
+//    Console.WriteLine($"{kvp.Key} {kvp.Value}");
+//}
+
+//Stacks
+
+
+var websiteStack = new Stack<string>();
+
+websiteStack.Push("www.google.com");
+websiteStack.Push("www.youtube.com");
+websiteStack.Push("www.facebook.com");
+
+var topOfStack = websiteStack.Peek();
+
+Console.WriteLine(topOfStack);
+
+
+//Queues
+
+var queue = new Queue<string>();
+
+queue.Enqueue("Mike");
+queue.Enqueue("Becky");
+queue.Enqueue("Emma");
+queue.Enqueue("Trish");
+
+queue.Enqueue("Mike 2.0");
 
 
 
