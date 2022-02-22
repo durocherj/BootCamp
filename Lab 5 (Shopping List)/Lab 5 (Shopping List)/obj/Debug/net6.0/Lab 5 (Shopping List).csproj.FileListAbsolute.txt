@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\Lab 5 (Shopping List).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\Lab 5 (Shopping List).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\Lab 5 (Shopping List).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\Lab 5 (Shopping List).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\ref\Lab 5 (Shopping List).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\bin\Debug\net6.0\Lab 5 (Shopping List).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\ref\Lab 5 (Shopping List).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Lab 5 (Shopping List)\Lab 5 (Shopping List)\obj\Debug\net6.0\Lab 5 (Shopping List).genruntimeconfig.cache
