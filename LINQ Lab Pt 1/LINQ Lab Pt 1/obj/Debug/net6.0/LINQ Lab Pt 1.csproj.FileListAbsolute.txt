@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\LINQ Lab Pt 1.exe
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\LINQ Lab Pt 1.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\LINQ Lab Pt 1.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\LINQ Lab Pt 1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\ref\LINQ Lab Pt 1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\bin\Debug\net6.0\LINQ Lab Pt 1.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\ref\LINQ Lab Pt 1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\LINQ Lab Pt 1\LINQ Lab Pt 1\obj\Debug\net6.0\LINQ Lab Pt 1.genruntimeconfig.cache
