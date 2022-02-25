@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\Classes1.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\Classes1.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\Classes1.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\Classes1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\ref\Classes1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\bin\Debug\net6.0\Classes1.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\ref\Classes1.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.genruntimeconfig.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Classes\Classes\obj\Debug\net6.0\Classes1.csproj.AssemblyReference.cache
