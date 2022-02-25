@@ -1,5 +1,8 @@
 ﻿
+
 int[] nums = { 10, 2330, 112233, 10, 949, 3764, 2942 };
+
+
 
 //Minimum value
 Console.WriteLine(nums.Min());
