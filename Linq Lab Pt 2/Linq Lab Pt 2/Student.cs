@@ -8,7 +8,11 @@ namespace Linq_Lab_Pt_2
 {
     public class Student
     {
+        
         public string Name { get; set; }
         public int Age { get; set; }
+
+        
+        
     }
 }
