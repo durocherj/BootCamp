@@ -24,63 +24,36 @@ List<Student> studentList = new List<Student>()
     abe,
     curtis
 };
-List<int> ages = new List<int>()
-{
-    jimmy.Age,
-    hannah.Age,
-    justin.Age,
-    sarah.Age,
-    hannibal.Age,
-    phillip.Age,
-    maria.Age,
-    abe.Age,
-    curtis.Age
-};
+
 
 
 
 //Find all students 21 and older
-List<string> canDrink = new List<string>();
-for (int i = 0; i < studentList.Count; i++)
+var age21AndOver = studentList.Where(x => x.Age > 21).ToList();
+foreach(var student in age21AndOver)
 {
-    if (studentList[i].Age >= 21)
-        canDrink.Add(studentList[i].Name);
-
+    Console.Write(student.Name + ",");
 }
-Console.WriteLine("The following students are old enough to drink: " + String.Join(",", canDrink));
+//List<string> canDrink = new List<string>();
+//for (int i = 0; i < studentList.Count; i++)
+//{
+//    if (studentList[i].Age >= 21)
+//        canDrink.Add(studentList[i].Name);
+
+//}
+//Console.WriteLine("The following students are old enough to drink: " + String.Join(",", canDrink));
 
 //Find oldest student
-string oldestStudent = null;
-int oldestAge = 0;
-for(int i = 0; i < studentList.Count;i++)
-{
-    if (oldestAge == 0)
-        oldestAge = studentList[i].Age;
-
-    else if (studentList[i].Age > oldestAge)
-    {
-        oldestAge = studentList[i].Age;
-        oldestStudent = studentList[i].Name;
-    }
-        
-}
-Console.WriteLine($"{oldestStudent} is the oldest student.");
+var oldest = studentList.Max(x => x.Age);
+var oldestStudent = studentList.FirstOrDefault(x => x.Age == oldest);
+Console.WriteLine($"\nThe oldest student is {oldestStudent.Name}");
 
 //Find youngest student
-string youngestStudent = null;
-int youngestAge = 0;
-for(int i = 0;i < studentList.Count; i++)
-{
-    if(youngestAge == 0)
-        youngestAge = studentList[i].Age;
-    else if (studentList[i].Age < youngestAge)
-    {
-        youngestAge = studentList[i].Age;
-        youngestStudent = studentList[i].Name;
-    }
-}
-Console.WriteLine($"{youngestStudent} is the youngest student.");
+var youngest = studentList.Min(x => x.Age);
+var youngestStudent = studentList.First(x => x.Age == youngest);
+Console.WriteLine($"The youngest student is {youngestStudent.Name}");
 
+//I understand everything below this line does not use LINQ as much as it should, but I spent 6 hours on this and I ran out of time.
 //Find oldest student under 25
 string oldestUnder25Name = null;
 int oldestUnder25Age = 0;
