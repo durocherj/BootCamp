@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\OOP.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\OOP.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\ref\OOP.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
