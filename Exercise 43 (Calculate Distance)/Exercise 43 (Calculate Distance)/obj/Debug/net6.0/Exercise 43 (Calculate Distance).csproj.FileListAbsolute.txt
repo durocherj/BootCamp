@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\Exercise 43 (Calculate Distance).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\Exercise 43 (Calculate Distance).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\Exercise 43 (Calculate Distance).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\Exercise 43 (Calculate Distance).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\ref\Exercise 43 (Calculate Distance).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\bin\Debug\net6.0\Exercise 43 (Calculate Distance).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\ref\Exercise 43 (Calculate Distance).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 43 (Calculate Distance)\Exercise 43 (Calculate Distance)\obj\Debug\net6.0\Exercise 43 (Calculate Distance).genruntimeconfig.cache

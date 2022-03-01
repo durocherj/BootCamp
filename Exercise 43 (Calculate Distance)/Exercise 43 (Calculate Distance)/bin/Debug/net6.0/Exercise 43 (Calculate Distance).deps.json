@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercise 43 (Calculate Distance)/1.0.0": {
+        "runtime": {
+          "Exercise 43 (Calculate Distance).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercise 43 (Calculate Distance)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
