@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\Exercise 45 (Square Class).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\Exercise 45 (Square Class).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\Exercise 45 (Square Class).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\Exercise 45 (Square Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\ref\Exercise 45 (Square Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\bin\Debug\net6.0\Exercise 45 (Square Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\ref\Exercise 45 (Square Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 45 (Square Class)\Exercise 45 (Square Class)\obj\Debug\net6.0\Exercise 45 (Square Class).genruntimeconfig.cache
