@@ -8,18 +8,30 @@ namespace Exercise_44__Point_Class_
 {
     internal class Point
     {
-        public double X;
-        public double Y;
+        public int x;
+        public int y;
 
-        public Point(double x, double y)
+        public Point(int x, int y)
         {
-            X = x;
-            Y = y;
+            this.x = x;
+            this.y = y;
         }
 
-        public double Distance()
+        public int Distance()
         {
             return Math.Sqrt(X * X + Y * Y);
         }
+
+        public Point CalculateMidpoint(Point p)
+        {
+            //formula is x2 + x1/2, y2 + y1/2
+            int xMidpoint = (p.x + this.x) / 2;
+            int yMidpoint = (p.y + this.y) / 2;
+
+            return new Point(xMidpoint, yMidpoint);
+
+
+        }
     }
+
 }

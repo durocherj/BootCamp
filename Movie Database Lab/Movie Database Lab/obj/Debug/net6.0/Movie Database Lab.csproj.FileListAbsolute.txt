@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\Movie Database Lab.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\Movie Database Lab.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\Movie Database Lab.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\Movie Database Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\ref\Movie Database Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\bin\Debug\net6.0\Movie Database Lab.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\ref\Movie Database Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Movie Database Lab\Movie Database Lab\obj\Debug\net6.0\Movie Database Lab.genruntimeconfig.cache

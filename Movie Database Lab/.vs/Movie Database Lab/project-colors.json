@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bbd0a36b-6673-4163-a29c-1bfcff368957": {
+      "ProjectGuid": "bbd0a36b-6673-4163-a29c-1bfcff368957",
+      "DisplayName": "Movie Database Lab",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
