@@ -8,8 +8,8 @@ namespace Movie_Database_Lab
 {
     internal class Movie
     {
-        private string Name { get; set; }
-        private string Category { get; set; }
+        public string Name { get; set; }
+        public string Category { get; set; }
 
         public Movie(string name, string category)
         {
