@@ -41,35 +41,55 @@ while (repeat)
     {
         case 1:
             Console.WriteLine("The following films fall under the 'Drama' category:");
-            foreach(Movie movie in movieList)
+            List<Movie> dramaList = movieList.Where(x => x.GetCategory() == "Drama").ToList();
+            foreach (Movie movie in dramaList)
             {
-                if (movie.GetCategory() == "Drama")
-                    Console.WriteLine(movie.GetTitle());
-            }            
+                Console.WriteLine(movie.GetTitle());
+            }
+            //foreach(Movie movie in movieList)
+            //{
+            //    if (movie.GetCategory() == "Drama")
+            //        Console.WriteLine(movie.GetTitle());
+            //}            
             break;
         case 2:
             Console.WriteLine("The following films fall under the 'Horror' category:");
-            foreach (Movie movie in movieList)
+            List<Movie> horrorList = movieList.Where(x => x.GetCategory() == "Horror").ToList();
+            foreach (Movie movie in horrorList)
             {
-                if (movie.GetCategory() == "Horror")
-                    Console.WriteLine(movie.GetTitle());
+                Console.WriteLine(movie.GetTitle());
             }
+            //foreach (Movie movie in movieList)
+            //{
+            //    if (movie.GetCategory() == "Horror")
+            //        Console.WriteLine(movie.GetTitle());
+            //}
             break;
         case 3:
             Console.WriteLine("The following films fall under the 'Animated' category:");
-            foreach (Movie movie in movieList)
+            List<Movie> animatedList = movieList.Where(x => x.GetCategory() == "Animated").ToList();
+            foreach (Movie movie in animatedList)
             {
-                if (movie.GetCategory() == "Animated")
-                    Console.WriteLine(movie.GetTitle());
+                Console.WriteLine(movie.GetTitle());
             }
+            //foreach (Movie movie in movieList)
+            //{
+            //    if (movie.GetCategory() == "Animated")
+            //        Console.WriteLine(movie.GetTitle());
+            //}
             break;
         case 4:
             Console.WriteLine("The following films fall under the 'Sci Fi' category:");
-            foreach (Movie movie in movieList)
+            List<Movie> scifiList = movieList.Where(x => x.GetCategory() == "Sci Fi").ToList();
+            foreach (Movie movie in scifiList)
             {
-                if (movie.GetCategory() == "Sci Fi")
-                    Console.WriteLine(movie.GetTitle());
+                Console.WriteLine(movie.GetTitle());
             }
+            //foreach (Movie movie in movieList)
+            //{
+            //    if (movie.GetCategory() == "Sci Fi")
+            //        Console.WriteLine(movie.GetTitle());
+            //}
             break;
 
         default:
