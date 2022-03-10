@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac599268-c1af-4340-81ad-e3735780da5c": {
+      "ProjectGuid": "ac599268-c1af-4340-81ad-e3735780da5c",
+      "DisplayName": "Exercise 57 (Rock, Paper, Scissors)",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
