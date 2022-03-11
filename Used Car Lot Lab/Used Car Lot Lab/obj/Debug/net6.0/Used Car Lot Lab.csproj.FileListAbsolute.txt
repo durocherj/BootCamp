@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\Used Car Lot Lab.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\Used Car Lot Lab.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\Used Car Lot Lab.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\Used Car Lot Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\ref\Used Car Lot Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\bin\Debug\net6.0\Used Car Lot Lab.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\ref\Used Car Lot Lab.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Used Car Lot Lab\Used Car Lot Lab\obj\Debug\net6.0\Used Car Lot Lab.genruntimeconfig.cache
