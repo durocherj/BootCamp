@@ -28,10 +28,18 @@ namespace UsedCarLotLab
             string make = Console.ReadLine();
             Console.WriteLine("Car Adder: Enter the Model: ");
             string model = Console.ReadLine();
-            Console.WriteLine("Car Adder: Enter the Year: ");
-            int year = int.Parse(Console.ReadLine());
+            //Console.WriteLine("Car Adder: Enter the Year: ");
+            int year = DateTime.Today.Year;
             Console.WriteLine("Car Adder: Enter the Price: ");
-            decimal price = decimal.Parse(Console.ReadLine());
+            decimal price;
+            bool priceParse = decimal.TryParse(Console.ReadLine(), out price);
+            //decimal price = decimal.Parse(Console.ReadLine());
+            while (!priceParse)
+            {
+                Console.WriteLine("I'm sorry, that's not a valid price. Please try again");
+                Console.WriteLine("Car Adder: Enter the Price: ");
+                priceParse = decimal.TryParse(Console.ReadLine(), out price);
+            }
 
             if (isNew)
                 return new Car(make, model, year, price);

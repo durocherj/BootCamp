@@ -1,6 +1,7 @@
 ﻿using UsedCarLotLab;
 
 bool repeat = true;
+string error = "I'm sorry, that is not a valid option.";
 
 List<Car> carList = new List<Car>();
 var car1 = new Car("Ford", "Fusion", 2006, 20500.99m);
@@ -32,12 +33,22 @@ while (yn == "y")
             break;
         case 2:
             Console.WriteLine("Add a car. Is it new? y or n");
-            if (Console.ReadLine().ToLower() == "y")
-                isNew = true;
-            else
-                isNew = false;
+            switch (Console.ReadLine().ToLower())
+            {
+                case "y":
+                    isNew = true;
+                    carList.Add(CarLotApp.AddCar(isNew));
+                    break;
+                case "n":
+                    isNew = false;
+                    carList.Add(CarLotApp.AddCar(isNew));
+                    break;
+                default:
+                    Console.WriteLine(error +"\n");
+                    break;
+            }
 
-            carList.Add(CarLotApp.AddCar(isNew));
+            
 
             break;
         case 3:
@@ -47,7 +58,7 @@ while (yn == "y")
             if (buyCarBool && buyCar <= carList.Count)
                 carList = CarLotApp.BuyCar(buyCar, carList);
             else
-                Console.WriteLine("I'm sorry, that is not a valid option.");
+                Console.WriteLine(error + "\n");
 
             break;
         case 4:
