@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Used Car Lot Lab\\Used Car Lot Lab\\Used Car Lot Lab.csproj",
-      "projectName": "Used Car Lot Lab",
-      "projectPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Used Car Lot Lab\\Used Car Lot Lab\\Used Car Lot Lab.csproj",
+      "projectUniqueName": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Used Car Lot Lab\\Used Car Lot Lab\\UsedCarLotLab.csproj",
+      "projectName": "UsedCarLotLab",
+      "projectPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Used Car Lot Lab\\Used Car Lot Lab\\UsedCarLotLab.csproj",
       "packagesPath": "C:\\Users\\bisky\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bisky\\Desktop\\GC\\BootCamp\\Used Car Lot Lab\\Used Car Lot Lab\\obj\\",
       "projectStyle": "PackageReference",

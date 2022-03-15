@@ -1,7 +1,5 @@
-﻿
-using Used_Car_Lot_Lab;
+﻿using UsedCarLotLab;
 
-string error = "I'm sorry, that is not a valid option.";
 bool repeat = true;
 
 List<Car> carList = new List<Car>();
@@ -19,44 +17,45 @@ carList.Add(car4);
 carList.Add(car5);
 carList.Add(car6);
 
-while (repeat)
+string yn = "y";
+while (yn == "y")
 {
-    
+    bool isNew;
+    Console.WriteLine("What would you like to do?\nChoose a number (1-5):" +
+        "\n1. Show list.  2. Add car.  3. Select/Buy car.  4.Exit.");
+    int userToDo = CarLotApp.UserChoice(4);
 
-    CarLotApp.ListCars(carList);
-
-    Console.WriteLine("\n\nWould you like to:" +
-        "\n1. Buy a car" +
-        "\n2. Sell a car" +
-        "\n3. Quit program");
-
-    switch (int.Parse(Console.ReadLine()))
+    switch (userToDo)
     {
         case 1:
-            {
-                CarLotApp.BuyCar();
-                break;
-            }
-
+            CarLotApp.ListCars(carList);
+            break;
         case 2:
-            {
-                CarLotApp.AddCar();
-                break;
-            }
+            Console.WriteLine("Add a car. Is it new? y or n");
+            if (Console.ReadLine().ToLower() == "y")
+                isNew = true;
+            else
+                isNew = false;
 
+            carList.Add(CarLotApp.AddCar(isNew));
+
+            break;
         case 3:
-            {
-                repeat = false;
-                break;
-            }
+            CarLotApp.ListCars(carList);
+            int buyCar;
+            var buyCarBool = int.TryParse(Console.ReadLine(), out buyCar);
+            if (buyCarBool && buyCar <= carList.Count)
+                carList = CarLotApp.BuyCar(buyCar, carList);
+            else
+                Console.WriteLine("I'm sorry, that is not a valid option.");
 
+            break;
+        case 4:
+            yn = "n";
+            break;
         default:
-            {
-                Console.WriteLine(error);
-                break;
-            }
-            
-        
 
+            break;
     }
 }
+

@@ -4,23 +4,32 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Used_Car_Lot_Lab
+namespace UsedCarLotLab
 {
     public class UsedCar : Car
     {
-        public double CarMileage { get; set; }
+        public double Mileage;
 
-        
 
-        public UsedCar(string carMake, string carModel, int carYear, decimal carPrice, double carMileage) 
-            : base (carMake, carModel, carYear, carPrice)
+        public UsedCar()
         {
-            this.CarMileage = carMileage;
+            Make = "";
+            Model = "";
+            Year = 0;
+            Price = 0M;
+        }
+        public UsedCar(string make, string model, int year, decimal price, double mileage)
+            : base(make, model, year, price)
+        {
+            Mileage = mileage;
         }
 
         public override string ToString()
         {
-            return $"{this.CarYear} {this.CarMake} {this.CarModel} with {this.CarMileage} miles on it for ${this.CarPrice}";
+            return $"{Make.PadRight(10)} {Model.PadRight(8)} {Year}  {Price.ToString("C")}" +
+                $"" +
+                $"" +
+                $"  (Used) {Mileage.ToString()} miles";
         }
     }
 }

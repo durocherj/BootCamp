@@ -4,35 +4,34 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Used_Car_Lot_Lab
+namespace UsedCarLotLab
 {
     public class Car
     {
-        public string CarMake { get; set; }
-        public string CarModel { get; set; }
-        public int CarYear { get; set; }
-        public decimal CarPrice { get; set; }
+        public string Make { get; set; }
+        public string Model { get; set; }
+        public int Year { get; set; }
+        public decimal Price { get; set; }
 
         public Car()
         {
-            this.CarMake = "";
-            this.CarModel = "POS";
-            this.CarYear = 0;
-            this.CarPrice = 0m;
+            Make = "";
+            Model = "";
+            Year = 0;
+            Price = 0M;
         }
-        public Car(string carMake, string carModel, int carYear, decimal carPrice)
+
+        public Car(string make, string model, int year, decimal price)
         {
-            this.CarMake = carMake;
-            this.CarModel = carModel;
-            this.CarYear = carYear;
-            this.CarPrice = carPrice;
+            Make = make;
+            Model = model;
+            Year = year;
+            Price = price;
         }
 
         public override string ToString()
         {
-            return $"{this.CarYear} {this.CarMake} {this.CarModel} for ${this.CarPrice}";
+            return $"{Make.PadRight(10)} {Model.PadRight(8)} {Year}  {Price.ToString("C")}";
         }
-
-
     }
 }
