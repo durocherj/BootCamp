@@ -44,7 +44,9 @@ while (yn == "y")
                     carList.Add(CarLotApp.AddCar(isNew));
                     break;
                 default:
+                    Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine(error +"\n");
+                    Console.ForegroundColor = ConsoleColor.White;
                     break;
             }
 

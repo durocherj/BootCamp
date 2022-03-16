@@ -36,7 +36,9 @@ namespace UsedCarLotLab
             //decimal price = decimal.Parse(Console.ReadLine());
             while (!priceParse)
             {
+                Console.ForegroundColor = ConsoleColor.Red;                
                 Console.WriteLine("I'm sorry, that's not a valid price. Please try again");
+                Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Car Adder: Enter the Price: ");
                 priceParse = decimal.TryParse(Console.ReadLine(), out price);
             }
