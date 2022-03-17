@@ -60,7 +60,12 @@ while (yn == "y")
             if (buyCarBool && buyCar <= carList.Count)
                 carList = CarLotApp.BuyCar(buyCar, carList);
             else
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine(error + "\n");
+                Console.ForegroundColor = ConsoleColor.White;
+            }
+ 
 
             break;
         case 4:

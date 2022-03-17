@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -29,15 +30,35 @@ namespace UsedCarLotLab
             Console.WriteLine("Car Adder: Enter the Model: ");
             string model = Console.ReadLine();
             //Console.WriteLine("Car Adder: Enter the Year: ");
-            int year = DateTime.Today.Year;
+            int year;
+            if(isNew)
+                year = DateTime.Today.Year;
+            else
+            {
+                Console.WriteLine("Car Adder: Enter the Year: ");
+                bool yearParse = int.TryParse(Console.ReadLine(), out year);
+                while (!yearParse || year < 10)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("I'm sorry, that's not a valid year. Please try again.\n");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("Car Adder: Enter the Year: ");
+                    yearParse = int.TryParse(Console.ReadLine(), out year);
+                }
+                if(year < 100)
+                {
+                    year = CultureInfo.InvariantCulture.Calendar.ToFourDigitYear(year);
+                }
+            }
+                
             Console.WriteLine("Car Adder: Enter the Price: ");
             decimal price;
             bool priceParse = decimal.TryParse(Console.ReadLine(), out price);
             //decimal price = decimal.Parse(Console.ReadLine());
-            while (!priceParse)
+            while (!priceParse || price < 0)
             {
                 Console.ForegroundColor = ConsoleColor.Red;                
-                Console.WriteLine("I'm sorry, that's not a valid price. Please try again");
+                Console.WriteLine("I'm sorry, that's not a valid price. Please try again.\n");
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Car Adder: Enter the Price: ");
                 priceParse = decimal.TryParse(Console.ReadLine(), out price);
@@ -48,7 +69,16 @@ namespace UsedCarLotLab
             else
             {
                 Console.WriteLine("Car Adder: Enter the Mileage: ");
-                double mileage = double.Parse(Console.ReadLine());
+                double mileage;
+                bool mileageParse = double.TryParse(Console.ReadLine(), out mileage);
+                while (!mileageParse || mileage < 0)
+                {
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("I'm sorry, that's not a valid mileage. Please try again.\n");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("Car Adder: Enter the Mileage: ");
+                    mileageParse = double.TryParse(Console.ReadLine(), out mileage);
+                }
                 return new UsedCar(make, model, year, price, mileage);
 
             }
