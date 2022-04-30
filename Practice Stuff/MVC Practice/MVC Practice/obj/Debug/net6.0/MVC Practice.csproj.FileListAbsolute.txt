@@ -1,0 +1,26 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\appsettings.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.staticwebassets.runtime.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\ref\MVC Practice.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\bin\Debug\net6.0\MVC Practice.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.RazorAssemblyInfo.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.RazorAssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\bundle\MVC Practice.styles.css
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\scopedcss\projectbundle\MVC Practice.bundle.scp.css
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\ref\MVC Practice.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\MVC Practice\MVC Practice\obj\Debug\net6.0\MVC Practice.genruntimeconfig.cache
