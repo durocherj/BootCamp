@@ -1,4 +1,6 @@
 using CoffeeRegistrationLab.Data;
+using CoffeeRegistrationLab.Services;
+using CoffeeRegistrationLab.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -7,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddDbContext<ApplicationDbContext>(x => x.UseSqlServer(builder.Configuration.GetConnectionString("AppDb")));
+builder.Services.AddScoped<ISalesTax, SalesTax>();
 
 var app = builder.Build();
 

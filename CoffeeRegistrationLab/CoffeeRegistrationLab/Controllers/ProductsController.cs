@@ -8,16 +8,19 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using CoffeeRegistrationLab.Data;
 using CoffeeRegistrationLab.Models;
+using CoffeeRegistrationLab.Services.Interfaces;
 
 namespace CoffeeRegistrationLab.Controllers
 {
     public class ProductsController : Controller
     {
         private readonly ApplicationDbContext _context;
+        private readonly ISalesTax _salesTax;
 
-        public ProductsController(ApplicationDbContext context)
+        public ProductsController(ApplicationDbContext context, ISalesTax salesTax)
         {
             _context = context;
+            _salesTax = salesTax;
         }
 
         // GET: Products
@@ -40,7 +43,7 @@ namespace CoffeeRegistrationLab.Controllers
             {
                 return NotFound();
             }
-
+            product.Price = _salesTax.ApplySalesTax(product.Price);
             return View(product);
         }
 
