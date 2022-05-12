@@ -1,0 +1,10 @@
+﻿
+    {
+      "id": 3,
+      "title": "Frankenstein",
+      "author": "Mary Shelley",
+      "checkedOutDate": null,
+      "dueDate": null,
+      "status": false
+    }
+   

@@ -1,0 +1,14 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\Exercise 42 (Point Class).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\Exercise 42 (Point Class).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\Exercise 42 (Point Class).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\Exercise 42 (Point Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\ref\Exercise 42 (Point Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\bin\Debug\net6.0\Exercise 42 (Point Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\ref\Exercise 42 (Point Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Exercise 42 (Point Class)\Exercise 42 (Point Class)\obj\Debug\net6.0\Exercise 42 (Point Class).genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "68fbaa55-2e9c-4c30-b56e-e7cae4c86719": {
+      "ProjectGuid": "68fbaa55-2e9c-4c30-b56e-e7cae4c86719",
+      "DisplayName": "unitTesting",
+      "ColorIndex": 0
+    },
+    "f3bafd7c-c0b7-43d5-ba12-d53aaa47d640": {
+      "ProjectGuid": "f3bafd7c-c0b7-43d5-ba12-d53aaa47d640",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\ref\Exercise 57 (Rock, Paper, Scissors).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\bin\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\ref\Exercise 57 (Rock, Paper, Scissors).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 57 (Rock, Paper, Scissors)\Exercise 57 (Rock, Paper, Scissors)\obj\Debug\net6.0\Exercise 57 (Rock, Paper, Scissors).genruntimeconfig.cache

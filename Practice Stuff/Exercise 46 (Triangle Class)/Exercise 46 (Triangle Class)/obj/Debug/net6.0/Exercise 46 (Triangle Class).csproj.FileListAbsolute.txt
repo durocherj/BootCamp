@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\Exercise 46 (Triangle Class).exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\Exercise 46 (Triangle Class).deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\Exercise 46 (Triangle Class).runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\Exercise 46 (Triangle Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\ref\Exercise 46 (Triangle Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\bin\Debug\net6.0\Exercise 46 (Triangle Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\ref\Exercise 46 (Triangle Class).dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\Exercise 46 (Triangle Class)\Exercise 46 (Triangle Class)\obj\Debug\net6.0\Exercise 46 (Triangle Class).genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd1e18f4-289e-4da8-916d-9b409b953ca8": {
+      "ProjectGuid": "fd1e18f4-289e-4da8-916d-9b409b953ca8",
+      "DisplayName": "CodeWars Narcissistic",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

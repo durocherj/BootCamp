@@ -1,0 +1,49 @@
+﻿{
+  "member": [
+    {
+      "Id": 1,
+      "firstname": "Sonia",
+      "lastname": "Ross",
+      "email": "sross@gclibrary.com",
+      "bookList": [
+        {
+          "id": 2,
+          "title": "One More Thing",
+          "author": "B.J. Novak",
+          "checkedOutDateDate": "", // how to express datetime in a json
+          "dueDate": ""
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "firstname": "Lisa",
+      "lastname": "Whitley",
+      "email": "lWhitley@gclibrary.com"
+    },
+    {
+      "Id": 3,
+      "firstname": "Jay",
+      "lastname": "Dourocher",
+      "email": "jdourocher@gclibrary.com"
+    },
+    {
+      "Id": 4,
+      "firstname": "",
+      "lastname": "",
+      "email": ""
+    },
+    {
+      "Id": 5,
+      "firstname": "",
+      "lastname": "",
+      "email": ""
+    },
+    {
+      "Id": 6,
+      "firstname": "",
+      "lastname": "",
+      "email": ""
+    }
+  ]
+}

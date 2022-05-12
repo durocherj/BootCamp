@@ -1,0 +1,15 @@
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\unitTesting.exe
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\unitTesting.deps.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\unitTesting.runtimeconfig.json
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\unitTesting.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\ref\unitTesting.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\bin\Debug\net6.0\unitTesting.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.csproj.AssemblyReference.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.AssemblyInfoInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.AssemblyInfo.cs
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.csproj.CoreCompileInputs.cache
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\ref\unitTesting.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.pdb
+C:\Users\bisky\Desktop\GC\BootCamp\Practice Stuff\unitTesting\unitTesting\obj\Debug\net6.0\unitTesting.genruntimeconfig.cache

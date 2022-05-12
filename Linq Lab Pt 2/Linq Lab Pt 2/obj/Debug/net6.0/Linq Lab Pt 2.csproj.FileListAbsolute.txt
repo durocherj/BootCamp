@@ -2,6 +2,10 @@ C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\Linq Lab Pt 2.deps.json
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\Linq Lab Pt 2.runtimeconfig.json
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\Linq Lab Pt 2.dll
+<<<<<<< HEAD
+C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\ref\Linq Lab Pt 2.dll
+=======
+>>>>>>> 2c8599328fb1848ce0a80ba5ce312d744cc5d9ab
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\bin\Debug\net6.0\Linq Lab Pt 2.pdb
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.csproj.AssemblyReference.cache
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.GeneratedMSBuildEditorConfig.editorconfig
@@ -9,7 +13,7 @@ C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.AssemblyInfo.cs
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.csproj.CoreCompileInputs.cache
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.dll
-C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\refint\Linq Lab Pt 2.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\ref\Linq Lab Pt 2.dll
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.pdb
 C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\Linq Lab Pt 2.genruntimeconfig.cache
-C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\ref\Linq Lab Pt 2.dll
+C:\Users\bisky\Desktop\GC\BootCamp\Linq Lab Pt 2\Linq Lab Pt 2\obj\Debug\net6.0\refint\Linq Lab Pt 2.dll
