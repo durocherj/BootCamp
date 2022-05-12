@@ -2,7 +2,7 @@
 
 namespace OMDBProject.Models
 {
-    public class SearchMovie
+    public class MovieSearch
     {
         [Required]
         public string Title { get; set; }

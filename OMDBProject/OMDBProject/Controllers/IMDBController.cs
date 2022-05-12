@@ -15,14 +15,28 @@ namespace OMDBProject.Controllers
         {
             return View();
         }
+
         [HttpPost]
-        public async Task<IActionResult> MovieSearch(SearchMovie movie)
+        public async Task<IActionResult> MovieSearch(MovieSearch movie)
         {
-            return await SearchMovieResult(movie.Title);
-            
+            return RedirectToAction("MovieSearchResult", await SearchMovieResult(movie.Title));
         }
 
-        public async  Task<IActionResult> SearchMovieResult(string searchTerm)
+        public async Task<IActionResult> MovieSearchResult(IMDBResponse movie)
+        {
+            return View(movie);
+        }
+
+        public async Task<IActionResult> MovieNightSearch(IMDBResponse movie1, IMDBResponse movie2, IMDBResponse movie3)
+        {
+            //Make this into a list
+            var response1 = await SearchMovieResult(movie1.Title);
+            var response2 = await SearchMovieResult(movie2.Title);
+            var response3 = await SearchMovieResult(movie3.Title);
+            return RedirectToAction("MovieNightResult", response1, response2, response3);
+        }
+
+        public async  Task<IMDBResponse> SearchMovieResult(string searchTerm)
         {
             HttpClient client = new HttpClient();
 
@@ -30,7 +44,9 @@ namespace OMDBProject.Controllers
 
             var response = await client.GetFromJsonAsync<IMDBResponse>("?t=" + searchTerm + "&apiKey=aa5bb7ad");
 
-            return View(response);
+            return response;
         }
+
+
     }
 }

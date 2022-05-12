@@ -23,12 +23,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/IMDB/MovieNight.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU1EQlxNb3ZpZU5pZ2h0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/IMDB/MovieNightSearch.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU1EQlxNb3ZpZU5pZ2h0U2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/IMDB/MovieSearch.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU1EQlxNb3ZpZVNlYXJjaC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/IMDB/SearchMovieResult.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU1EQlxTZWFyY2hNb3ZpZVJlc3VsdC5jc2h0bWw=
+[C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/IMDB/MovieSearchResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSU1EQlxNb3ZpZVNlYXJjaFJlc3VsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/bisky/Desktop/GC/BootCamp/OMDBProject/OMDBProject/Views/Shared/Error.cshtml]
