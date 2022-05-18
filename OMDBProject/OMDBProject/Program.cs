@@ -1,4 +1,10 @@
+using OMDBProject.Models;
+using OMDBProject.Models.DataAccessLayer;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//dependency injection
+builder.Services.AddScoped<IIMDBRepository, IMDBRepository>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

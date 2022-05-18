@@ -1,4 +1,20 @@
 ﻿@model IMDBResponse
 
-<p>@Model.Title</p>
-<img src="@Model.Poster" />
+
+
+<<div class="container">
+  <div class="row">
+        <div class="col-4"></div>
+        <div class="col-4">
+            <div style="background-color:#212529"class="card" style="width: 18rem;">
+                <img src="@Model.Poster" class="card-img-top" alt="This is where the poster would be if things hadn't broken.">
+                <div class="card-body">
+                    <p style = "color:#f5c518" class="card-text">@Model.Plot</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-4"></div>
+    
+    
+    </div>
+</div>

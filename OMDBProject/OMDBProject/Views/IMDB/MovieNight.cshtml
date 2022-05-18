@@ -1,12 +1,24 @@
-﻿@model MovieSearch
+﻿@model MovieNight
 
 @{
 }
 
 <p>
-    <form asp-action="MovieSearch">
-        <label asp-for="Title" class="control-label"></label>
-        <input asp-for="Title" class="form-control" />
+    <form asp-action="MovieNightResult">
+        <div>
+            <label asp-for="Movie1" class="control-label"></label>
+        <input asp-for="Movie1" class="form-control" />
+        </div>
+        <div>
+            <label asp-for="Movie2" class="control-label"></label>
+        <input asp-for="Movie2" class="form-control" />
+        </div>
+        <div>
+            <label asp-for="Movie3" class="control-label"></label>
+        <input asp-for="Movie3" class="form-control" />
+        </div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+
+        
     </form>
-    <button class="btn btn-primary" type="submit">Submit</button>
 </p>

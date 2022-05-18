@@ -1,14 +1,28 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using OMDBProject.Models;
+using OMDBProject.Models.DataAccessLayer;
 using System.Net.Http.Json;
 
 namespace OMDBProject.Controllers
 {
     public class IMDBController : Controller
     {
+        private readonly IIMDBRepository _iMDBRepository;
+
+        public IMDBController(IIMDBRepository iMDBRepository)
+        {
+            _iMDBRepository = iMDBRepository;
+        }
         public IActionResult Index()
         {
             return View();
+        }
+        [HttpPost]
+        public async Task<IActionResult> MovieSearch(MovieSearch movie)
+        {
+            IMDBResponse movieResponse = await _iMDBRepository.SearchMovieResult(movie.Title);
+
+            return RedirectToAction("MovieSearchResult", movieResponse);
         }
 
         public async Task<IActionResult> MovieSearch()
@@ -16,37 +30,31 @@ namespace OMDBProject.Controllers
             return View();
         }
 
-        [HttpPost]
-        public async Task<IActionResult> MovieSearch(MovieSearch movie)
-        {
-            return RedirectToAction("MovieSearchResult", await SearchMovieResult(movie.Title));
-        }
-
         public async Task<IActionResult> MovieSearchResult(IMDBResponse movie)
         {
             return View(movie);
         }
 
-        public async Task<IActionResult> MovieNightSearch(IMDBResponse movie1, IMDBResponse movie2, IMDBResponse movie3)
+        public IActionResult MovieNight()
         {
-            //Make this into a list
-            var response1 = await SearchMovieResult(movie1.Title);
-            var response2 = await SearchMovieResult(movie2.Title);
-            var response3 = await SearchMovieResult(movie3.Title);
-            return RedirectToAction("MovieNightResult", response1, response2, response3);
+            return View();
         }
 
-        public async  Task<IMDBResponse> SearchMovieResult(string searchTerm)
+        [HttpPost]
+        public async Task<IActionResult> MovieNightResult(MovieNight movies)
         {
-            HttpClient client = new HttpClient();
+            List<IMDBResponse> movieList = new List<IMDBResponse>();
 
-            client.BaseAddress = new Uri("http://www.omdbapi.com");
+            movieList.Add(await _iMDBRepository.SearchMovieResult(movies.Movie1));
+            movieList.Add(await _iMDBRepository.SearchMovieResult(movies.Movie2));
+            movieList.Add(await _iMDBRepository.SearchMovieResult(movies.Movie3));
 
-            var response = await client.GetFromJsonAsync<IMDBResponse>("?t=" + searchTerm + "&apiKey=aa5bb7ad");
+            return View(movieList);
 
-            return response;
         }
 
+        
 
+        
     }
 }
