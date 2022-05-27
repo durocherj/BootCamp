@@ -74,21 +74,35 @@ namespace WebAPILab.Controllers
                 return NotFound();
             }
             List<Movie> movieList = await _context.Movies.Where(x => x.Category.ToLower() == category.ToLower()).ToListAsync();
-            //Generate a list of moies based on the user category input, then grab a random entry from that list
-            var rand = new Random();
-            int number = rand.Next(1, movieList.Count() + 1);
-
-            //needs to check relative to movieList, not by Id
-            //var movie = movieList.Where(x => x == number).FirstOrDefault();
-
+            var random = new Random();
+            int randomMovieId = movieList.OrderBy(x => random.Next()).Select(x => x.Id).FirstOrDefault();
+            
+            Movie movie = movieList.Where(x => x.Id == randomMovieId).FirstOrDefault();
             if (movie == null)
             {
                 return NotFound();
             }
-
             return movie;
-
-
         }
+
+        [HttpGet("GetAllCategories")]
+
+        public async Task<ActionResult<List<string>>> GetAllCategories()
+        {
+            if (_context.Movies == null)
+            {
+                return NotFound();
+            }
+
+            List<string> categories = await _context.Movies.Select(x=> x.Category).Distinct().ToListAsync();
+
+            if (categories == null)
+            {
+                return NotFound();
+            }
+
+            return categories;
+        }
+
     }
 }
