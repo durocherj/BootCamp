@@ -1,0 +1,17 @@
+<table>
+    <thead>
+        <tr>
+            <th>Item</th>
+            <th>Category</th>
+            <th>Price</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        <tr *ngFor="let item of menuItemArray">
+            <td>{{item.name}}</td>
+            <td>{{item.category}}</td>
+            <td>{{item.price | currency}}</td>
+        </tr>
+    </tbody>
+</table>
