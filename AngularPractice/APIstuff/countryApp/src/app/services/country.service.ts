@@ -10,9 +10,9 @@ export class CountryService {
 
   constructor(private client:HttpClient) { }
 
-  getCountryByName(name:string) : Observable<Country>{
+  getCountryByName(name:string) : Observable<Country[]>{
     let endpoint = "https://restcountries.com/v3.1/name/" + name;
-    let response = this.client.get<Country>(endpoint);
+    let response = this.client.get<Country[]>(endpoint);
 
     return response;
   }

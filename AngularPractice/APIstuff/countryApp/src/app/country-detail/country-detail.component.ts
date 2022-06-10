@@ -18,7 +18,7 @@ export class CountryDetailComponent implements OnInit {
 
   getCountryByName(form:any){
     this.service.getCountryByName(form.value["countryName"])
-    .subscribe(x => console.log(x));
+    .subscribe((apiData:Country[]) => this.countryArray = apiData);
   }
 
 }

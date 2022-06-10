@@ -1,23 +1,12 @@
 
-    export interface Aym {
-        official: string;
-        common: string;
-    }
 
-    export interface Que {
-        official: string;
-        common: string;
-    }
-
-    export interface Spa {
+    export interface Deu {
         official: string;
         common: string;
     }
 
     export interface NativeName {
-        aym: Aym;
-        que: Que;
-        spa: Spa;
+        deu: Deu;
     }
 
     export interface Name {
@@ -26,13 +15,13 @@
         nativeName: NativeName;
     }
 
-    export interface PEN {
+    export interface EUR {
         name: string;
         symbol: string;
     }
 
     export interface Currencies {
-        PEN: PEN;
+        EUR: EUR;
     }
 
     export interface Idd {
@@ -41,9 +30,7 @@
     }
 
     export interface Languages {
-        aym: string;
-        que: string;
-        spa: string;
+        deu: string;
     }
 
     export interface Ara {
@@ -61,7 +48,7 @@
         common: string;
     }
 
-    export interface Deu {
+    export interface Deu2 {
         official: string;
         common: string;
     }
@@ -136,7 +123,7 @@
         common: string;
     }
 
-    export interface Spa2 {
+    export interface Spa {
         official: string;
         common: string;
     }
@@ -160,7 +147,7 @@
         ara: Ara;
         ces: Ces;
         cym: Cym;
-        deu: Deu;
+        deu: Deu2;
         est: Est;
         fin: Fin;
         fra: Fra;
@@ -175,7 +162,7 @@
         por: Por;
         rus: Rus;
         slk: Slk;
-        spa: Spa2;
+        spa: Spa;
         swe: Swe;
         urd: Urd;
         zho: Zho;
@@ -202,12 +189,31 @@
     }
 
     export interface Gini {
-        2019: number;
+        2016: number;
     }
 
     export interface Car {
         signs: string[];
         side: string;
+    }
+
+    export interface Flags {
+        png: string;
+        svg: string;
+    }
+
+    export interface CoatOfArms {
+        png: string;
+        svg: string;
+    }
+
+    export interface CapitalInfo {
+        latlng: number[];
+    }
+
+    export interface PostalCode {
+        format: string;
+        regex: string;
     }
 
     export interface Country {
@@ -241,7 +247,12 @@
         car: Car;
         timezones: string[];
         continents: string[];
-        flags: string[];
+        flags: Flags;
+        coatOfArms: CoatOfArms;
+        startOfWeek: string;
+        capitalInfo: CapitalInfo;
+        postalCode: PostalCode;
     }
+
 
 

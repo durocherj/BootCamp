@@ -5,4 +5,23 @@
 
 </form>
 
+<div *ngIf="countryArray.length !== 0">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col">Name</th>
+                <th scope="col">Flag</th>
+                <th scope="col">Google Maps Link</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>{{countryArray[0].name.common}}</td>
+                <td><img src="{{countryArray[0].flags.png}}"></td>
+                <td><a href="{{countryArray[0].maps.googleMaps}}">{{countryArray[0].maps.googleMaps}}</a></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
