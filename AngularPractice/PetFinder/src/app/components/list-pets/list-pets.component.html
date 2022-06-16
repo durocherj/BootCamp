@@ -1,0 +1,26 @@
+<div class="row">
+    <div class="col-12">
+        <div class="text-center">
+            <h1>Pet Finder</h1>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-2"></div>
+    <div class="col-8">
+        <div class="row">
+            <div class="col-3" *ngFor="let pet of petArray">
+                <div class="card" style="width: 18rem;">
+                    <img src="/assets/{{pet.imageName}}" class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">{{pet.name}}</h5>
+                      <p class="card-text">{{pet.breed}}</p>
+                      <a [routerLink]= "['/petDetails', pet.petId]" class="btn btn-primary">Details</a>
+                    </div>
+                  </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-2"></div>
+</div>
