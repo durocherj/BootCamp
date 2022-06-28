@@ -1,0 +1,32 @@
+Team - Jay, Tyler, Mitchell, Lonnie
+
+Project idea must meet requirements and be approved.
+
+Requirements
+3 Wireframes - Plan out page layouts before coding begins. So final will need to have at least 3 different pages.
+
+Angular front end
+
+Use a third party API. Must return Json or XML
+
+Must include a databse with at least 2 student created tables, foreing-key relationships encouraged (like the bookmark table)
+
+Must use entity framework core.
+
+Must represent all aspects of CRUD (Create, Read, Update, and Delete)
+
+Must be hosted on cloud in Azure.
+
+Ideas
+To-Watch - Jay - App for movies you want to watch but keep forgetting. Organize by genre.
+One table for just genres, then another which lists all the films you've tagged/favorited/bookmarked, using a foreign key for the genre.
+A third table for listing all the genres an entry in the users favorites has.
+
+Pages - List all my movies, list my genres theni choose one and list the movies in that genre, pick a random movie from my list.
+Endpoints - Get all. Get by ID. Get by Genre. Get random from list. Get random from third party api. Get random by genre (list & API)
+
+Workout App - Mitchell - Organize the type of exercises you want to do throughout the week. Tracks goals. Third party api: Random muscle facts?
+
+Sport Stats App - Lonnie - Could search for players or teams and get stats. Favorite players.
+
+biskyniffer@gmail.com
