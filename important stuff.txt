@@ -8,3 +8,15 @@
               "node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": ["node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"]
+
+
+
+builder.Services.AddCors(options =>
+{
+	options.AddPolicy(name: "LocalOriginsPolicy",
+		builder => builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader()
+	);
+}
+);
+
+app.UseCors("LocalOriginsPolicy");

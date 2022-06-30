@@ -1,0 +1,16 @@
+ng build in vs code after base azure setup
+
+output location dist/*github location*
+
+
+https://jolly-river-02da17510.1.azurestaticapps.net - base url for front end
+
+https://finalproject20220629195153.azurewebsites.net - base url for back end api
+
+DreamTeam
+password is Grandcircus4
+
+Server=tcp:finalprojectdbserver12.database.windows.net,1433;Initial Catalog=FinalProject_db;Persist Security Info=False;User ID=DreamTeam;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+finalprojectdbserver12.database.windows.net - sql server management
+
