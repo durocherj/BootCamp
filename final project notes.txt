@@ -7,13 +7,13 @@ Requirements
 
 Angular front end
 
-Use a third party API. Must return Json or XML
+Use a third party API NOT OMDB. Must return Json or XML
 
 Must include a databse with at least 2 student created tables, foreing-key relationships encouraged (like the bookmark table)
 
 Must use entity framework core.
 
-Must represent all aspects of CRUD (Create, Read, Update, and Delete)
+Must represent all aspects of CRUD (Create, Read, Update, and Delete) Update category.
 
 Must be hosted on cloud in Azure.
 
